@@ -1,0 +1,9 @@
+[submodule "google-maps-lead-generator"]
+	path = google-maps-lead-generator
+	url = https://github.com/kaymen99/google-maps-lead-generator.git
+[submodule "Email-Crawler-Lead-Generator"]
+	path = Email-Crawler-Lead-Generator
+	url = https://github.com/superryeti/Email-Crawler-Lead-Generator.git
+[submodule "Linkedin-Lead-Generator"]
+	path = Linkedin-Lead-Generator
+	url = https://github.com/JakeMaldonado/Linkedin-Lead-Generator.git
